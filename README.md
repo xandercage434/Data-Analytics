@@ -4,7 +4,7 @@ Our [best data analytics courses](https://intellipaat.com/data-analytics-master-
 
 ## What Data Analytics courses are taught in this Data Analytics Master course?
 
-## Online instructor-led courses:
+### Online instructor-led courses:
 
 Data Science with R
 Tableau
